@@ -1,68 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- <ThingDef ParentName="BuildingBase">
-    <defName>FT_NuclearContainer</defName>
-    <label>Nuclear container</label>
-    <description>a container that can place aside from the lathe to make it capable of process radioactive material.</description>
-    <graphicData>
-      <texPath>FT_NuclearDawn/NuclearContainer</texPath>
-      <graphicClass>Graphic_Multi</graphicClass>
-      <drawSize>(3,3)</drawSize>
-      <damageData>
-        <cornerTL>Damage/Corner</cornerTL>
-        <cornerTR>Damage/Corner</cornerTR>
-        <cornerBL>Damage/Corner</cornerBL>
-        <cornerBR>Damage/Corner</cornerBR>
-      </damageData>
-    </graphicData>
-    <altitudeLayer>Building</altitudeLayer>
-    <passability>PassThroughOnly</passability>
-    <castEdgeShadows>true</castEdgeShadows>
-    <staticSunShadowHeight>0.45</staticSunShadowHeight>
-    <fillPercent>0.5</fillPercent>
-    <canOverlapZones>false</canOverlapZones>
-    <pathCost>42</pathCost>
-    <statBases>
-      <MaxHitPoints>500</MaxHitPoints>
-      <WorkToBuild>3000</WorkToBuild>
-      <Mass>50</Mass>
-      <Flammability>0.25</Flammability>
-    </statBases>
-    <size>(2,1)</size>
-    <costList>
-      <Uranium>200</Uranium>
-    </costList>
-    <building>
-      <destroySound>BuildingDestroyed_Metal_Small</destroySound>
-    </building>
-    <researchPrerequisites>
-      <li>FT_NuclearDawn</li>
-    </researchPrerequisites>
-    <designationCategory>Misc</designationCategory>
-    <minifiedDef>MinifiedThing</minifiedDef>
-    <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
-    <thingCategories>
-      <li>BuildingsMisc</li>
-    </thingCategories>
-    <comps>
-      <li Class="CompProperties_Facility">
-        <statOffsets>
-          <WorkTableWorkSpeedFactor>0.25</WorkTableWorkSpeedFactor>
-        </statOffsets>
-        <maxSimultaneous>2</maxSimultaneous>
-      </li>
-    </comps>
-    <placeWorkers>
-      <li>PlaceWorker_ShowFacilitiesConnections</li>
-    </placeWorkers>
-  </ThingDef> -->
-
   <FT_RTG.label>R.T.G.</FT_RTG.label>
-  <FT_RTG.description>放射性同位素熱電發電機，在不需要額外燃料的情況下永遠（相對的）產生電力。 一種可以利用核技術知識生產的永恆電池.</FT_RTG.description>
+  <FT_RTG.description>放射性同位素熱電發電機，在不需要額外燃料的情況下永遠（相對的）產生電力。 一種可以利用核技術知識生產的永恆電池.\n\n 請注意該裝置在運作時會被動的產生廢熱.</FT_RTG.description>
 
   <FT_Reactor.label>核能反應爐</FT_Reactor.label>
-  <FT_Reactor.description>針對遠地區殖民地設計的全自動核裂變反應爐，雖然安全性與穩定性都非常的可靠但發電能力遠遠不如邊緣核能公司設計的反應爐.</FT_Reactor.description>
+  <FT_Reactor.description>針對遠地區殖民地設計的全自動核裂變反應爐，雖然安全性與穩定性都非常的可靠但發電能力遠遠不如邊緣核能公司設計的反應爐.\n\n 請注意該裝置在運作時會被動的產生廢熱.</FT_Reactor.description>
 
   <FT_Centrifuge.label>電磁型同位素分離器</FT_Centrifuge.label>
   <FT_Centrifuge.description>需要來自整個殖民地電力來驅動的同位素質譜儀，使用電場加速粒子撞擊和偏轉，將天然鈾提取為濃縮鈾和副產物貧化鈾.</FT_Centrifuge.description>

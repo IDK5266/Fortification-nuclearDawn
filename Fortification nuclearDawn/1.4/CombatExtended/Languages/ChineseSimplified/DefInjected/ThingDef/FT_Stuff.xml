@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <FT_DepletedUranium.label>贫铀</FT_DepletedUranium.label>
+<FT_DepletedUranium.label>贫铀</FT_DepletedUranium.label>
   <FT_DepletedUranium.description>一种深色重金属,是浓缩铀的副产品.也是中寰世界战争中常见的装甲材料,其极高的密度和硬度使其非常适合制造刀片,装甲和穿甲弹药.</FT_DepletedUranium.description>
 
   <FT_UraniumOutput.label>铀离心物</FT_UraniumOutput.label>
