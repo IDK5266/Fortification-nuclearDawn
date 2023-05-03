@@ -308,7 +308,7 @@
 				<cancelIngredientsDesc>IP_CancelIngredientsDesc</cancelIngredientsDesc>
 				<cancelIngredientsIcon>FT_NuclearDawn/FTND_Cancel</cancelIngredientsIcon> 
 
-				<noPowerDestroysProgress>false</noPowerDestroysProgress>
+				<noPowerDestroysProgress>true</noPowerDestroysProgress>
 
 				<destroyIngredientsAtStartOfProcess>true</destroyIngredientsAtStartOfProcess>
 
